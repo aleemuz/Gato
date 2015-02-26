@@ -8,7 +8,7 @@ import javax.swing.JButton;
 
 /**
  *
- * @author Genzo
+ * @author Alejandra Muñiz
  */
 public class Casilla {
     JButton A;

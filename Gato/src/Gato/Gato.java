@@ -8,7 +8,7 @@ import java.awt.event.*;
 import javax.swing.*;
 /**
  *
- * @author Alejandra
+ * @author Alejandra Muñiz
  */
 public class Gato extends javax.swing.JFrame implements ActionListener{
     Casilla[][]  juego;
